@@ -1,0 +1,12 @@
+{
+  "name": "ITP-Collecting-data-from-fb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kurohune538/ITP-Collecting-data-from-fb.git",
+  "author": "Shinnosuke Komiya <kurohune538@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "puppeteer": "^5.3.1"
+  }
+}
